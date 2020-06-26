@@ -101,3 +101,23 @@ saveThree.addEventListener("click", saveThreeField);
 saveFour.addEventListener("click", saveFourField);
 saveFive.addEventListener("click", saveFiveField);
 //Event Listeners//
+
+
+let toDoList = [];
+
+
+
+// String Inserts//
+const updateContent = () => {
+    nineAM.innerHTML = localStorage.getItem("nine");
+    tenAM.innerHTML = localStorage.getItem("ten");
+    elevenAM.innerHTML = localStorage.getItem("eleven");
+    twelvePM.innerHTML = localStorage.getItem("twelve");
+    onePM.innerHTML = localStorage.getItem("one");
+    twoPM.innerHTML = localStorage.getItem("two");
+    threePM.innerHTML = localStorage.getItem("three");
+    fourPM.innerHTML = localStorage.getItem("four");
+    fivePM.innerHTML = localStorage.getItem("five");
+}
+
+// String Inserts//
