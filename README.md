@@ -19,7 +19,7 @@ Time blocks are color coded to indicate past, present, and future.
 Past = Grey, Present = Red, Future = Green.  
 Users can input data into each time block.  
 Users can use a save icon to save the input data for each time block.  
-Input data is saved into local storage when the user clicks the save icon. 
+Input data is saved into local storage when the user clicks the save icon.   
 Saved data is persistent even upon page reload.     
 
 # Screenshots
