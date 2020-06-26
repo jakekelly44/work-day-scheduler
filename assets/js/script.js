@@ -20,3 +20,13 @@ const fourPM = document.getElementById('4');
 const fivePM = document.getElementById('5');
 
 // Selectors //
+
+
+//Planner Function//
+const initPlanner = () => {
+    updateContent();
+    getDateAndTime();
+    checkTimes();
+}
+
+//Planner Function//
