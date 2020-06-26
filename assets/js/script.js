@@ -121,3 +121,80 @@ const updateContent = () => {
 }
 
 // String Inserts//
+
+
+// Row Color Validations//
+
+const checkTimes = () => {
+    let currentTime = moment().hour();
+    if (currentTime >= 9 && currentTime < 10) {
+        nineAM.style.background = "#ff6961";
+    } else if (currentTime >= 10 && currentTime < 11) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#ff6961";
+    } else if (currentTime >= 11 && currentTime < 12) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#ff6961";
+    } else if (currentTime >= 12 && currentTime < 13) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#d3d3d3";
+        twelvePM.style.background = "#ff6961";
+    } else if (currentTime >= 13 && currentTime < 14) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#d3d3d3";
+        twelvePM.style.background = "#d3d3d3";
+        onePM.style.background = "#ff6961";
+    } else if (currentTime >= 14 && currentTime < 15) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#d3d3d3";
+        twelvePM.style.background = "#d3d3d3";
+        onePM.style.background = "#d3d3d3";
+        twoPM.style.background = "#ff6961";
+    } else if (currentTime >= 15 && currentTime < 16) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#d3d3d3";
+        twelvePM.style.background = "#d3d3d3";
+        onePM.style.background = "#d3d3d3";
+        twoPM.style.background = "#d3d3d3";
+        threePM.style.background = "#ff6961";
+    } else if (currentTime >= 16 && currentTime < 17) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#d3d3d3";
+        twelvePM.style.background = "#d3d3d3";
+        onePM.style.background = "#d3d3d3";
+        twoPM.style.background = "#d3d3d3";
+        threePM.style.background = "#d3d3d3";
+        fourPM.style.background = "#ff6961";
+    } else if (currentTime >= 17 && currentTime < 18) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#d3d3d3";
+        twelvePM.style.background = "#d3d3d3";
+        onePM.style.background = "#d3d3d3";
+        twoPM.style.background = "#d3d3d3";
+        threePM.style.background = "#d3d3d3";
+        fourPM.style.background = "#d3d3d3";
+        fivePM.style.background = "#ff6961";
+    } else if (currentTime >= 18) {
+        nineAM.style.background = "#d3d3d3";
+        tenAM.style.background = "#d3d3d3";
+        elevenAM.style.background = "#d3d3d3";
+        twelvePM.style.background = "#d3d3d3";
+        onePM.style.background = "#d3d3d3";
+        twoPM.style.background = "#d3d3d3";
+        threePM.style.background = "#d3d3d3";
+        fourPM.style.background = "#d3d3d3";
+        fivePM.style.background = "#d3d3d3";
+    }
+
+}
+
+// Row Color Validations//
+
+initPlanner();
