@@ -17,8 +17,6 @@ The functionality is as follows;
 
 # Screenshots
 
-** The below screenshots only highlight a portion of the quiz functionality. 
-
 ![Proof of Work Day Scheduler #1](./assets/documentation/?raw=true "Work Day Scheduler Proof 1")
 
 
