@@ -88,3 +88,16 @@ const saveFiveField = () => {
 }
 
 //Local Storage//
+
+
+//LS Event Listeners//
+saveNine.addEventListener("click", saveNineField);
+saveTen.addEventListener("click", saveTenField);
+saveEleven.addEventListener("click", saveElevenField);
+saveTwelve.addEventListener("click", saveTwelveField);
+saveOne.addEventListener("click", saveOneField);
+saveTwo.addEventListener("click", saveTwoField);
+saveThree.addEventListener("click", saveThreeField);
+saveFour.addEventListener("click", saveFourField);
+saveFive.addEventListener("click", saveFiveField);
+//Event Listeners//
