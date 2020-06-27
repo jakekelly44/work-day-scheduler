@@ -24,7 +24,7 @@ Saved data is persistent even upon page reload.
 
 # Screenshots
 
-![Proof of Work Day Scheduler #1 Image](./assets/doc/work-day-scheduler.png?raw=true "Work Day Scheduler Proof 1 Image")
+![Proof of Work Day Scheduler #1 Image](./assets/doc/Work-Day-Scheduler.png "Work Day Scheduler Proof 1 Image")
 
 ![Proof of Work Day Scheduler #2 GIF](./assets/doc/work-day-scheduler.gif "Work Day Scheduler Proof 2 GIF")
 
