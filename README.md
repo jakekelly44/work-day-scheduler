@@ -1,9 +1,9 @@
 # Work Day Scheduler
 
-# Live URL
+## Live URL
 https://jakekelly44.github.io/work-day-scheduler/
 
-# Description
+## Description
 This is a Scheduling Web App developed for the University of Arizona Coding Bootcamp Module #5 using JQuery and Moment.js. 
 
 The user story is as follows;     
@@ -11,7 +11,7 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner   
 SO THAT I can manage my time effectively      
 
-# Functionality 
+## Functionality 
 The functionality is as follows;   
 Curent date and time is displayed in the header.  
 There are 9 one-hour time blocks to simulate normal business hours.  
@@ -22,11 +22,12 @@ Users can use a save icon to save the input data for each time block.
 Input data is saved into local storage when the user clicks the save icon.   
 Saved data is persistent even upon page reload.     
 
-# Screenshots
+## Screenshots
 
+### GIF
 ![Proof of Work Day Scheduler #1 GIF](./assets/doc/Work-Day-Scheduler.gif "Work Day Scheduler Proof 1 GIF")
 
-
+### Still
 ![Proof of Work Day Scheduler #2 Image](./assets/doc/Work-Day-Scheduler.png "Work Day Scheduler Proof 2 Image")
 
 
