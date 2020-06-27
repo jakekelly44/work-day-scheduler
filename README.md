@@ -24,11 +24,11 @@ Saved data is persistent even upon page reload.
 
 # Screenshots
 
-![Proof of Work Day Scheduler #1 Image](./assets/documentation/work-day-scheduler.png?raw=true "Work Day Scheduler Proof 1 Image")
+![Proof of Work Day Scheduler #1 Image](./assets/doc/work-day-scheduler.png?raw=true "Work Day Scheduler Proof 1 Image")
 
-![Proof of Work Day Scheduler #2 GIF](./assets/documentation/work-day-scheduler.gif "Work Day Scheduler Proof 2 GIF")
+![Proof of Work Day Scheduler #2 GIF](./assets/doc/work-day-scheduler.gif "Work Day Scheduler Proof 2 GIF")
 
-![Proof of Work Day Scheduler #3 Video](./assets/documentation/work-day-scheduler.mp4 "Work Day Scheduler Proof 3 Video")
+![Proof of Work Day Scheduler #3 Video](./assets/doc/work-day-scheduler.mp4 "Work Day Scheduler Proof 3 Video")
 
 
 
